@@ -1,4 +1,4 @@
-package org.cap.transactionmgt.entities;
+package com.capgemini.transactionmgt.entities;
 
 import java.util.Date;
 

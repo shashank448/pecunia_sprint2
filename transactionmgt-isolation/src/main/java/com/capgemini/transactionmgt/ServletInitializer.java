@@ -1,4 +1,4 @@
-package org.cap.bookingmgt;
+package com.capgemini.transactionmgt;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
